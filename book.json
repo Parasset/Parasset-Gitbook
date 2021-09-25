@@ -1,0 +1,13 @@
+{
+    "title" : "Gitbook Use",
+    "description": "22WWWWWWWW",
+    "structure": {
+        "readme": "WhitePaper.md"
+    },
+    "plugins": ["chapter-fold", "katex"],
+    "pluginsConfig": {
+        "chapter-fold": {}
+    }
+}
+
+  

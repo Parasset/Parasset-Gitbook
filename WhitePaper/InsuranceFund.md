@@ -1,0 +1,7 @@
+# Insurance Fund
+
+---
+
+Risk control plays a vital role in financial development. In order to eliminate and manage liquidation risks as much as possible, insurance funds are born from time to time to escort liquidity providers. After the introduction of insurance funds, liquidity providers only need to pay a certain guarantee fee to enjoy security. The income of the underlying asset stabilization fee, although it also constitutes a liability to the system, has its own value. The jump risk caused by the incomplete market cannot be hedged. The stability fee is partly determined by the mortgage rate (downtime risk), and partly by the total mortgage ratio, such as the ratio of the total amount of ETH mortgage to the total circulation.   
+
+It can also refer to the volatility rate, taking into account the consideration of liquidity and liquidation scale. In this way, insurance funds can obtain extremely high interest rates according to their scale, and balance them naturally. Insurance funds cannot hedge and assume incomplete market risks and may lose money. The blockchain is a game system, and any behavior that occurs on the chain will have an absolute impact on the next participant. Insurance funds help to form self-reinforcing. If people who mortgage loans bear each other's liquidation risks without sufficient income compensation, the whole process will be messy. The introduction of insurance funds generates a ledger for everyone, which is a stable currency that can be used for settlement.
