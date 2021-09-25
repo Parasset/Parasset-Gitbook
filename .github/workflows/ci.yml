@@ -18,7 +18,7 @@ jobs:
           node-version: '10.21.0'
 
       - name: install pacakges
-        run: yarn
+        run: npm
 
       - name: build
         run: npx gitbook build
