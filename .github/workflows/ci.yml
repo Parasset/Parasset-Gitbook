@@ -20,8 +20,11 @@ jobs:
       - name: install pacakges
         run: npm install
 
+      - name: install gitbook pacakges
+        run: gitbook install
+
       - name: build
-        run: npx gitbook build
+        run: gitbook build
 
       - name: upload artifact
         uses: actions/upload-artifact@v2
