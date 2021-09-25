@@ -58,4 +58,4 @@ $$ NP_{t} = \frac{N_{t}}{F_{t}}$$
 
 1. Net assets $$N_{t} = U_{t} + V_{t}$$
 2. $$F_{t}$$ is the insurance fund share at time $$t$$, the initial share is $$F_{0}$$, then: $$F_{t} = F_{t-1} + \Delta F_{t}$$
-> $$\Delta F_{t}$$’s formula is $$\Delta F_{t} = \frac{u_{t}}{NP_{T-1}}$$, Among them, $$u_{t}$$ is the new LP asset
+> $$\Delta F_{t}$$’s formula is $$\Delta F_{t} = \frac{u_{t}}{NP_{t-1}}$$, Among them, $$u_{t}$$ is the new LP asset
