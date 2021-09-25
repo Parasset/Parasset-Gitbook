@@ -17,6 +17,9 @@ jobs:
         with:
           node-version: '14'
 
+      - name: install pacakges
+        run: yarn
+
       - name: build
         run: npx gitbook build
 
