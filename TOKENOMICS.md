@@ -34,6 +34,10 @@
         <td></td>
     </tr>
 </table>
+     
+
+![](https://github.com/Parasset/Parasset-Gitbook/image/parasset_tokenomics.png)
+    
 
 <table>
     <tr>
