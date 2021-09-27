@@ -36,7 +36,7 @@
 </table>
      
 
-![](https://github.com/Parasset/Parasset-Gitbook/image/parasset_tokenomics.png)
+![](https://github.com/Parasset/Parasset-Gitbook/blob/main/image/parasset_tokenomics.png)
     
 
 <table>
