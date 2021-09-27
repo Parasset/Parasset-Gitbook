@@ -6,4 +6,5 @@
     * [Operation Process](WhitePaper/OperationProcess.md)
     * [Core Algorithm](WhitePaper/CoreAlgorithm.md)
     * [Risk Disclosure](WhitePaper/RiskDisclosure.md)
+* [Tokenomics](TOKENOMICS.md)
 
